@@ -15,7 +15,7 @@ matrix:
       compiler: gcc
     - os: linux
       arch: ppc64le
-      compiler: gcc
+      compiler: clang
     - os: osx
       arch: amd64
       compiler: clang
